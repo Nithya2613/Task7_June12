@@ -1,1 +1,1 @@
-# Task7_June12
+This task demonstrates how to use SQL inside Python to generate a basic sales summary from an SQLite database. A small sales table was created and populated with sample data using sqlite3. SQL queries were executed to calculate total quantity sold and total revenue by product, as well as overall sales. The results were loaded into pandas DataFrames, printed to the console, and visualized using matplotlib bar charts. Additional insights, such as the top-selling product, were also plotted to enhance the analysis.
